@@ -1,0 +1,17 @@
+Questão 28 - Linguagens, Códigos e suas Tecnologias
+
+O gramático tem uma percepção muito estrita da língua. Ele se vê como alguém que tem de defender a língua da mudança. O problema é que eles, ao se esforçarem para que as pessoas obedeçam às normas da língua, não viram que estavam dando um cala-boca no cidadão brasileiro. Como se dissessem: “Tem de falar e escrever de acordo com as regras. Não fale errado!”. E as pessoas, com medo de não conseguir, falam e escrevem pouco. O dono da língua é o falante, não o gramático. Aprendemos com o falante a língua como ele fala e procuramos saber por que está falando de um jeito ou de outro. Dizer que está falando errado não é uma atitude científica, de descoberta. A linguística substituiu o cala-boca ao prazer da descoberta científica. Foi só com a linguística que se ampliou o olhar e se passou a considerar que qualquer assunto é digno de estudo.
+
+Entrevista de Ataliba de Castilho. **Pesquisa Fapesp**, n. 259, set. 2017 (adaptado).
+
+Com base na tese defendida na conclusão do texto, infere-se a intenção do autor de
+
+(A) atribuir à gramática os desvios do português brasileiro.
+
+(B) defender uma atitude política diante das regras da língua.
+
+(C) contrapor o trabalho do linguista às prescrições gramaticais.
+
+(D) contribuir para reverter a escassez de produções textuais no país.
+
+(E) isentar o falante da responsabilidade de seguir as normas linguísticas.
